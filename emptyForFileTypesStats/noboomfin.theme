@@ -1,0 +1,129 @@
+[Theme]
+DisplayName=noboomfinal
+ThemeId={ECB71234-1A81-4624-8037-6A110B93351E}
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-109
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-123
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\System32\imageres.dll,-54
+Empty=%SystemRoot%\System32\imageres.dll,-55
+[Control Panel\Colors]
+ActiveBorder=2 131 156
+ActiveTitle=0 146 91
+ActiveTitleText=20 215 100
+AppWorkspace=0 15 0
+Background=0 0 18
+ButtonAlternateFace=0 0 120
+ButtonDkShadow=0 0 120
+ButtonFace=0 20 0
+ButtonHilight=30 230 30
+ButtonLight=0 0 120
+ButtonShadow=30 30 220
+ButtonText=20 80 200
+GradientActiveTitle=0 120 0
+GradientInactiveTitle=60 0 0
+GrayText=50 180 140
+Hilight=4 155 255
+HilightText=0 255 255
+HotTrackingColor=0 150 255
+InactiveBorder=0 150 255
+InactiveTitle=100 50 30
+InactiveTitleText=20 215 115
+InfoText=100 192 100
+InfoWindow=0 30 0
+Menu=0 0 40
+MenuBar=0 0 60
+MenuHilight=0 150 255
+MenuText=0 150 255
+Scrollbar=0 128 80
+TitleText=60 192 100
+Window=0 8 30
+WindowFrame=0 12 40
+WindowText=127 170 255
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\cursors\aero_working.ani
+Arrow=%SystemRoot%\cursors\aero_arrow.cur
+Hand=%SystemRoot%\cursors\aero_link.cur
+Help=%SystemRoot%\cursors\aero_helpsel.cur
+No=%SystemRoot%\cursors\aero_unavail.cur
+NWPen=%SystemRoot%\cursors\aero_pen.cur
+SizeAll=%SystemRoot%\cursors\aero_move.cur
+SizeNESW=%SystemRoot%\cursors\aero_nesw.cur
+SizeNS=%SystemRoot%\cursors\aero_ns.cur
+SizeNWSE=%SystemRoot%\cursors\aero_nwse.cur
+SizeWE=%SystemRoot%\cursors\aero_ew.cur
+UpArrow=%SystemRoot%\cursors\aero_up.cur
+Wait=%SystemRoot%\cursors\aero_busy.ani
+DefaultValue=Windows par défaut
+[Control Panel\Desktop]
+Wallpaper=DesktopBackground\01-spitzer-omeganebula.jpg
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=4
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\NOBBOM2NE\NOBBOM2NE.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+ColorizationColor=0XA7C94695
+HideBlur=1
+VisualStyleVersion=10
+[boot]
+SCRNSAVE.EXE=
+[MasterThemeSelector]
+MTSM=RJSPBS
+[Sounds]
+SchemeName=Gestionnaire de Sons (modifié)
+[Control Panel\Cursors.A]
+DefaultValue=Windows par défaut
+[Control Panel\Cursors.W]
+DefaultValue=Windows par d+AOk-faut
+[Theme.A]
+[Theme.W]
+DisplayName=Th+AOg-me non enregistr+AOk-
+[Sounds.A]
+SchemeName=Gestionnaire de Sons (modifié)
+[Sounds.W]
+SchemeName=Gestionnaire de Sons (modifi+AOk-)
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Print complete.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Print complete.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Default.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FaxLineRings]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Ringin.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Information Bar.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\Media\Gestionnaire\Windows Pop-up Blocked.wav
+[Slideshow]
+
+Interval=32000
+Shuffle=0
+ImagesRootPath=DesktopBackground
