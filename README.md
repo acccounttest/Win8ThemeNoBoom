@@ -14,3 +14,5 @@ Normally there is a sound that happend on multiple events, this is not the one y
 You will need to install sounds manually in the same name of the folder found in the configuration file, the installation of all the other features is next.
 
 <img width="850" height="1024" alt="WIN8.1 THEME NOBOOM" src="https://photos.app.goo.gl/RQdhGznpWzracBDT9">
+
+<img width="850" height="1024" alt="WIN8.1 THEME NOBOOM" src="./ScreenshootsFull/25_1920x1080_CE553CA5.jpg">
