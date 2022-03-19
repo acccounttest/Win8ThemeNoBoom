@@ -1,6 +1,6 @@
 # Win8ThemeNoBoom
 ---
-```ahk
+```xml
 A full dark colored Windows 8 theme
 ```
 ___
