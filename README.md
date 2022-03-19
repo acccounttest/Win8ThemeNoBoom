@@ -1,7 +1,7 @@
 # Win8ThemeNoBoom
 ---
 ```ruby
-A full dark colored Windows 8 theme
+.-={:§A full dark colored Windows 8 theme§:}=-.
 ```
 ___
 
