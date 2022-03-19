@@ -1,6 +1,6 @@
 # Win8ThemeNoBoom
 ---
-```xml
+```ruby
 A full dark colored Windows 8 theme
 ```
 ___
